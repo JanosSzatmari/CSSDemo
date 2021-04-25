@@ -1,0 +1,67 @@
+h1,h2{
+    color: navy;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+}
+
+Body {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../image/background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+   
+}
+.frame-1 {
+    background-color: rgb(217, 236, 236);
+    color: black;
+
+    border: 3px red;
+
+    padding: 20px;
+
+    margin: 50px;
+    
+}
+
+.container {
+    width: 500px;
+    margin: auto;
+    margin-top: 200px;
+
+}
+
+.button1 {
+    background-image: url(../image/button.png);
+    color:blue;
+    background: black;
+    margin: 50px;
+}
+    
+
+
+.button1:hover {
+    color: blue;
+    background: white;
+    margin: 50px;
+}
+
+
+.comment {
+    margin: 100px;
+    
+}
+.button2 {
+    background-color: blue;
+    color: white;
+    background-image:url(../image/email.png);
+    
+
+}
+.button2:hover {
+    background-color: cornflowerblue;
+    color: red;
+}
